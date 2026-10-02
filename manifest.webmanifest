@@ -1,0 +1,9 @@
+{
+  "name": "RDD Parceiro BMB3",
+  "short_name": "RDD Parceiro",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef4f0",
+  "theme_color": "#007f3d",
+  "lang": "pt-BR"
+}
